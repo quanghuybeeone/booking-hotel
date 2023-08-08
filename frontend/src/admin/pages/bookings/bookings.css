@@ -1,0 +1,6 @@
+.date-in-admin {
+    position: absolute;
+    top: 30px;
+    left: -20%;
+    z-index: 10;
+}
